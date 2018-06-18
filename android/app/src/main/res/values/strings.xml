@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tikitaka</string>
+    <string name="fb_app_id">2043678255958373</string>
+    <string name="fb_login_protocol_scheme">fb2043678255958373</string>
+</resources>

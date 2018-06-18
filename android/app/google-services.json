@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "814666149027",
+    "firebase_url": "https://tikitaka-1523883571266.firebaseio.com",
+    "project_id": "tikitaka-1523883571266",
+    "storage_bucket": "tikitaka-1523883571266.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814666149027:android:24230c53620c8c9d",
+        "android_client_info": {
+          "package_name": "com.tikitaka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814666149027-15157vpr8v4eh8ade5err1umhvrm3qn4.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "814666149027-dj34kblsc2h3n1rpil26iua4g46vlq9h.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "814666149027-fhervvomk5i58cp5po2ak0fo31qldchr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tikitaka",
+            "certificate_hash": "f593c4aed3a3c02279d4fc6b922ed404f321fe04"
+          }
+        },
+        {
+          "client_id": "814666149027-15157vpr8v4eh8ade5err1umhvrm3qn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxoPKcFjK9eoC8nQ-tlriUuqUGu5WYsWM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814666149027-15157vpr8v4eh8ade5err1umhvrm3qn4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "814666149027-4rr66dotudct3fp2n84rhdgjegj6p1ep.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tikitaka"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
